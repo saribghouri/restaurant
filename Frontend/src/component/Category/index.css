@@ -1,0 +1,12 @@
+#outlined-textarea {
+  width: 100% !important;
+}
+
+.input {
+  width: 100%;
+}
+
+.button-parent {
+  display: flex;
+  justify-content: space-between;
+}
